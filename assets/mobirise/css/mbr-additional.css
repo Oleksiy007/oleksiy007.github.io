@@ -685,13 +685,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-sfsDEOnZaB .navbar {
-  background: #ffffff;
+  background: #767676;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-sfsDEOnZaB .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #767676;
 }
 .cid-sfsDEOnZaB a {
   font-style: normal;
@@ -782,7 +782,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-sfsDEOnZaB .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #767676;
   visibility: hidden;
   display: block;
   position: absolute;
